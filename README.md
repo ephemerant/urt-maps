@@ -1,7 +1,7 @@
 # Urban Terror Jump Maps
 This is a repository of all of the jump maps that I have created for Urban Terror.
 
-### Gravity
+## Gravity
 ![Gravity](/_docs/banners/gravity.jpg)
 * [UrtJumpers Page](http://www.urtjumpers.com/map.php?id=570)
 
